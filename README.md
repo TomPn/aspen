@@ -1,10 +1,11 @@
 # Risky_Portfolio_Generator
 
 # DEMO:
+[![Watch the video](https://s29755.pcdn.co/wp-content/uploads/2019/07/FWLIVE_CHI_Web-05.png)](https://youtu.be/Ka_fOdJNVL8)
 
 This is a 3-person project. The goal of this project is to generate the riskiest portfolio with a minimum of 10 stocks and a maximum of 20 stocks with any given ticker set and initial investment. 
 
-Strategy/Algorithm:
+# Strategy/Algorithm:
 
 We analyzed each stock's history in the time between July 2nd and November 26th of 2021. The starting date was chosen to be July 2nd because we are interested in the short term volatility of the stocks as the portfolios are only tracked for a week for the competition. Thus, we needed a timeframe short enought to capture current information about the stocks (ie. maybe there is some bad press/new legislation that disturbed the stock price recently but the stock is normally quite stable - we are still interested in this stock since the portfolio is only tracked for a week) but long enough to contain sufficient information for a proer analysis. We thought that July 2nd, which was also the timeframe we started tracking the volume of the stocks, was a healthy medium that fulfilled our needs. November 26th is a much more self-explanatory choice: we want to get the latest data prior to generating the portfolio.
 
