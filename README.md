@@ -1,4 +1,4 @@
-# Risky_Portfolio_Generator
+# Aspen Algorithm
 
 ## DEMO:
 [![Watch the video](https://s29755.pcdn.co/wp-content/uploads/2019/07/FWLIVE_CHI_Web-05.png)](https://youtu.be/Ka_fOdJNVL8)
