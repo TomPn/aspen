@@ -20,9 +20,6 @@ The optimization is done through analysis of the Sharpe Ratio, which indicates t
 
 This optimization algorithm has shown success in the real world, as it outperformed the S&P 500 by around 50% in a 4-week testing period during January 2022.
 
-### Demo:
-[![Watch the video](https://s29755.pcdn.co/wp-content/uploads/2019/07/FWLIVE_CHI_Web-05.png)](https://youtu.be/QxiApmEZTK4)
-
 ### Status
 Aspen Algorithm has been in development since December 2021, with new features and iterations currently in progress.
 
