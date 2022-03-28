@@ -1,7 +1,7 @@
 # Aspen Algorithm
 > Generates a high-growth portfolio for financially ambitious investors
 
-![Aspen Image](https://github.com/TomPn/Aspen-Algorithm/blob/main/aspen_algorithm_logo.jpg)
+![Aspen Image](https://github.com/TomPn/aspen/blob/main/600101B4-6F75-41F9-B9D0-14C45D3B7EBB.JPEG)
 
 ## What is Aspen Algorithm?
 Aspen Algorithm is a quantitative portfolio allocation algorithm that creates a optimized high-growth portfolio to achieve a high level of expected return in the stock market.
